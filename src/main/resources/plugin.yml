@@ -1,0 +1,5 @@
+name: CoinFlip
+version: '${project.version}'
+main: me.dovide.coinflip.CFMain
+api-version: '1.20'
+authors: [Dovide]
